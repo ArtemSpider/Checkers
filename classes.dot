@@ -1,0 +1,5 @@
+digraph "classes" {
+rankdir=BT
+charset="utf-8"
+"Checkers.Game" [color="black", fontcolor="black", label="{Game|all_moves : dict\lboard : Board\lgame_ended : bool\lgraphics : Graphics\lselected : Tuple, NoneType\l|draw()\lrun()\lstep(): bool\l}", shape="record", style="solid"];
+}
